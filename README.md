@@ -3,6 +3,19 @@
 ## Overview
 End-to-end HR analytics case study built to identify the key drivers of employee attrition, flag high-risk organizational segments, and turn those findings into actionable retention recommendations.
 
+## Business Problem
+237 out of 1,470 employees left the company, an attrition rate of 16.12%. Every departure means lost experience and the cost of recruiting and training a replacement.
+The overall rate hides where the real problem is, because attrition is not spread evenly across the workforce:
+Early-career employees: 36.36% of employees with under 1 year of work experience left, the highest rate of any group.
+Sales Representatives: 39.76% left, more than double the company average.
+Overtime: 127 of the 237 leavers (53.6%) were working overtime.
+Management does not yet know which factors are linked to people leaving, or which groups should get attention first. Without that, retention effort gets spread across the whole company instead of focused on the segments losing the most people.
+This analysis answers three questions:
+Where is attrition concentrated (department, job role, tenure)?
+Which factors are linked to leaving (overtime, business travel, pay, stock options, satisfaction, distance from home)?
+What should the company change first to reduce it?
+Note: the dataset has no cost or voluntary vs involuntary information, so impact is measured in headcount and attrition rates, not money.
+
 ## Dataset
 IBM HR Analytics Employee Attrition dataset — 1,470 employees, including demographics, compensation, tenure, satisfaction scores, and attrition status.
 
